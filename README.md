@@ -11,4 +11,4 @@ ILLUMINATE beckons the brightest minds to join its ranks, forming a collective f
 
 Welcome to ILLUMINATE, where brilliance shines, imagination soars, and innovation reigns supreme.
 
-- MORE COMING SOON - 
+- MORE COMING SOON
