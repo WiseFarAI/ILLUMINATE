@@ -1,4 +1,4 @@
-# PROJECT ILLUMINATE
+# ILLUMINATE
 ILLUMINATE: Inference and Learning for Local LLMs Using Metal and Apple Silicon
 
 In the realm of technological advancement, an extraordinary project emerges, bringing together the brightest minds, bound by a shared purpose: ILLUMINATE. As a think tank of unparalleled creativity and genius, ILLUMINATE is dedicated to optimizing inference performance for local LLM models on Apple Silicon.
